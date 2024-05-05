@@ -1,0 +1,3 @@
+#!/usr/bin/sh 
+
+python ~/.local/bin/organize.py

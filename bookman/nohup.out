@@ -1,0 +1,716 @@
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+error: could not open document
+
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+info: info: Opening plain database via sqlite backend.Opening plain database via sqlite backend.
+
+warning: warning: sqlite database already exists. Set your database backend to sqlitesqlite database already exists. Set your database backend to sqlite
+
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqliteinfo: 
+Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+error: Could not determine file type.
+error: could not open document
+
+info: info: Opening plain database via sqlite backend.Opening plain database via sqlite backend.
+
+warning: warning: sqlite database already exists. Set your database backend to sqlitesqlite database already exists. Set your database backend to sqlite
+
+error: Could not determine file type.
+error: Could not determine file type.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.info: 
+Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+error: Could not determine file type.
+error: Could not determine file type.
+debug: ../girara/template.c:256: base_changed(): Variable 'session' not set.
+debug: ../zathura/plugin.c:272: register_plugin(): plugin: filetype mapping added: application/pdf
+debug: ../zathura/plugin.c:272: register_plugin(): plugin: filetype mapping added: application/oxps
+debug: ../zathura/plugin.c:272: register_plugin(): plugin: filetype mapping added: application/epub+zip
+debug: ../zathura/plugin.c:272: register_plugin(): plugin: filetype mapping added: application/x-fictionbook+xml
+debug: ../zathura/plugin.c:272: register_plugin(): plugin: filetype mapping added: application/xml
+debug: ../zathura/plugin.c:173: load_plugin(): Successfully loaded plugin from '/usr/lib/zathura/libpdf-mupdf.so'.
+debug: ../zathura/plugin.c:174: load_plugin(): plugin pdf-mupdf: version 0.4.1
+debug: ../girara/config.c:358: girara_config_parse(): reading configuration file '/etc/xdg/zathurarc'
+debug: ../girara/config.c:256: config_parse(): failed to open config file '/etc/xdg/zathurarc'
+debug: ../girara/config.c:358: girara_config_parse(): reading configuration file '/etc/zathurarc'
+debug: ../girara/config.c:256: config_parse(): failed to open config file '/etc/zathurarc'
+debug: ../girara/config.c:358: girara_config_parse(): reading configuration file '/home/akira/.config/zathura/zathurarc'
+debug: ../girara/config.c:256: config_parse(): failed to open config file '/home/akira/.config/zathura/zathurarc'
+debug: ../zathura/zathura.c:450: zathura_init(): Basic sandbox allowing normal operation.
+debug: ../zathura/seccomp-filters.c:58: seccomp_enable_basic_filter(): adding rule kill to _sysctl
+debug: ../zathura/seccomp-filters.c:59: seccomp_enable_basic_filter(): adding rule kill to acct
+debug: ../zathura/seccomp-filters.c:60: seccomp_enable_basic_filter(): adding rule kill to add_key
+debug: ../zathura/seccomp-filters.c:61: seccomp_enable_basic_filter(): adding rule kill to adjtimex
+debug: ../zathura/seccomp-filters.c:63: seccomp_enable_basic_filter(): adding rule kill to clock_adjtime
+debug: ../zathura/seccomp-filters.c:64: seccomp_enable_basic_filter(): adding rule kill to create_module
+debug: ../zathura/seccomp-filters.c:65: seccomp_enable_basic_filter(): adding rule kill to delete_module
+debug: ../zathura/seccomp-filters.c:66: seccomp_enable_basic_filter(): adding rule kill to fanotify_init
+debug: ../zathura/seccomp-filters.c:67: seccomp_enable_basic_filter(): adding rule kill to finit_module
+debug: ../zathura/seccomp-filters.c:68: seccomp_enable_basic_filter(): adding rule kill to get_kernel_syms
+debug: ../zathura/seccomp-filters.c:69: seccomp_enable_basic_filter(): adding rule kill to get_mempolicy
+debug: ../zathura/seccomp-filters.c:70: seccomp_enable_basic_filter(): adding rule kill to init_module
+debug: ../zathura/seccomp-filters.c:71: seccomp_enable_basic_filter(): adding rule kill to io_cancel
+debug: ../zathura/seccomp-filters.c:72: seccomp_enable_basic_filter(): adding rule kill to io_destroy
+debug: ../zathura/seccomp-filters.c:73: seccomp_enable_basic_filter(): adding rule kill to io_getevents
+debug: ../zathura/seccomp-filters.c:74: seccomp_enable_basic_filter(): adding rule kill to io_setup
+debug: ../zathura/seccomp-filters.c:75: seccomp_enable_basic_filter(): adding rule kill to io_submit
+debug: ../zathura/seccomp-filters.c:76: seccomp_enable_basic_filter(): adding rule kill to ioperm
+debug: ../zathura/seccomp-filters.c:77: seccomp_enable_basic_filter(): adding rule kill to iopl
+debug: ../zathura/seccomp-filters.c:78: seccomp_enable_basic_filter(): adding rule kill to ioprio_set
+debug: ../zathura/seccomp-filters.c:79: seccomp_enable_basic_filter(): adding rule kill to kcmp
+debug: ../zathura/seccomp-filters.c:80: seccomp_enable_basic_filter(): adding rule kill to kexec_file_load
+debug: ../zathura/seccomp-filters.c:81: seccomp_enable_basic_filter(): adding rule kill to kexec_load
+debug: ../zathura/seccomp-filters.c:82: seccomp_enable_basic_filter(): adding rule kill to keyctl
+debug: ../zathura/seccomp-filters.c:83: seccomp_enable_basic_filter(): adding rule kill to lookup_dcookie
+debug: ../zathura/seccomp-filters.c:84: seccomp_enable_basic_filter(): adding rule kill to mbind
+debug: ../zathura/seccomp-filters.c:85: seccomp_enable_basic_filter(): adding rule kill to nfsservctl
+debug: ../zathura/seccomp-filters.c:86: seccomp_enable_basic_filter(): adding rule kill to migrate_pages
+debug: ../zathura/seccomp-filters.c:87: seccomp_enable_basic_filter(): adding rule kill to modify_ldt
+debug: ../zathura/seccomp-filters.c:88: seccomp_enable_basic_filter(): adding rule kill to mount
+debug: ../zathura/seccomp-filters.c:90: seccomp_enable_basic_filter(): adding rule kill to mount_setattr
+debug: ../zathura/seccomp-filters.c:92: seccomp_enable_basic_filter(): adding rule kill to move_pages
+debug: ../zathura/seccomp-filters.c:93: seccomp_enable_basic_filter(): adding rule kill to name_to_handle_at
+debug: ../zathura/seccomp-filters.c:94: seccomp_enable_basic_filter(): adding rule kill to open_by_handle_at
+debug: ../zathura/seccomp-filters.c:95: seccomp_enable_basic_filter(): adding rule kill to perf_event_open
+debug: ../zathura/seccomp-filters.c:96: seccomp_enable_basic_filter(): adding rule kill to pivot_root
+debug: ../zathura/seccomp-filters.c:97: seccomp_enable_basic_filter(): adding rule kill to process_vm_readv
+debug: ../zathura/seccomp-filters.c:98: seccomp_enable_basic_filter(): adding rule kill to process_vm_writev
+debug: ../zathura/seccomp-filters.c:99: seccomp_enable_basic_filter(): adding rule kill to ptrace
+debug: ../zathura/seccomp-filters.c:100: seccomp_enable_basic_filter(): adding rule kill to reboot
+debug: ../zathura/seccomp-filters.c:101: seccomp_enable_basic_filter(): adding rule kill to remap_file_pages
+debug: ../zathura/seccomp-filters.c:102: seccomp_enable_basic_filter(): adding rule kill to request_key
+debug: ../zathura/seccomp-filters.c:103: seccomp_enable_basic_filter(): adding rule kill to set_mempolicy
+debug: ../zathura/seccomp-filters.c:104: seccomp_enable_basic_filter(): adding rule kill to swapoff
+debug: ../zathura/seccomp-filters.c:105: seccomp_enable_basic_filter(): adding rule kill to swapon
+debug: ../zathura/seccomp-filters.c:106: seccomp_enable_basic_filter(): adding rule kill to sysfs
+debug: ../zathura/seccomp-filters.c:107: seccomp_enable_basic_filter(): adding rule kill to syslog
+debug: ../zathura/seccomp-filters.c:108: seccomp_enable_basic_filter(): adding rule kill to tuxcall
+debug: ../zathura/seccomp-filters.c:109: seccomp_enable_basic_filter(): adding rule kill to umount
+debug: ../zathura/seccomp-filters.c:110: seccomp_enable_basic_filter(): adding rule kill to umount2
+debug: ../zathura/seccomp-filters.c:111: seccomp_enable_basic_filter(): adding rule kill to uselib
+debug: ../zathura/seccomp-filters.c:120: seccomp_enable_basic_filter(): Using a basic seccomp filter to blacklist privileged system calls!           Errors reporting 'bad system call' may be an indicator of compromise
+debug: ../girara/session.c:762: girara_set_window_icon(): Loading window icon with name: org.pwmt.zathura
+debug: ../zathura/zathura.c:380: init_database(): Using plain database backend.
+info: Opening plain database via sqlite backend.
+warning: sqlite database already exists. Set your database backend to sqlite
+debug: ../zathura/database-sqlite.c:400: sqlite_db_init(): database version: 2 (current: 2)
+debug: ../zathura/dbus-interface.c:112: bus_acquired(): Bus acquired at 'org.pwmt.zathura.PID-32028'.
+debug: ../zathura/zathura.c:201: zathura_update_view_ppi(): monitor width: 442 mm, pixels: 1600, ppi: 91.95
+debug: ../zathura/zathura.c:201: zathura_update_view_ppi(): monitor width: 442 mm, pixels: 1600, ppi: 91.95
+debug: ../zathura/dbus-interface.c:135: name_acquired(): Acquired 'org.pwmt.zathura.PID-32028' on session bus.
+debug: ../zathura/zathura.c:201: zathura_update_view_ppi(): monitor width: 442 mm, pixels: 1600, ppi: 91.95
+debug: ../zathura/content-type.c:72: guess_type_magic(): magic detected filetype: application/pdf
+debug: ../zathura/file-monitor.c:126: zathura_filemonitor_new(): using glib file monitor
+debug: ../zathura/zathura.c:1169: document_open(): starting file monitor
+debug: ../zathura/zathura.c:686: setup_renderer(): starting renderer with cache size 15
+debug: ../zathura/zathura.c:201: zathura_update_view_ppi(): monitor width: 442 mm, pixels: 1600, ppi: 91.95
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 0 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 1 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 2 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 3 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 4 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 5 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 6 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 7 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 8 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 9 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 10 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 11 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 12 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 13 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 14 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 15 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 16 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 17 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 18 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 19 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 20 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 21 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 22 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 23 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 24 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 25 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 26 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 27 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 28 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 29 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 30 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 31 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 32 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 33 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 34 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 35 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 36 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 37 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 38 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 39 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 40 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 41 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 42 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 43 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 44 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 45 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 46 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 47 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 48 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 49 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 50 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 51 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 52 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 53 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 54 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 55 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 56 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 57 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 58 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 59 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 60 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 61 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 62 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 63 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 64 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 65 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 66 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 67 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 68 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 69 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 70 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 71 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 72 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 73 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 74 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 75 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 76 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 77 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 78 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 79 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 80 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 81 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 82 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 83 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 84 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 85 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 86 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 87 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 88 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 89 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 90 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 91 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 92 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 93 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 94 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 95 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 96 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 97 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 98 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 99 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 100 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 101 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 102 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 103 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 104 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 105 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 106 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 107 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 108 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 109 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 110 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 111 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 112 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 113 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 114 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 115 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 116 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 117 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 118 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 119 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 120 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 121 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 122 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 123 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 124 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 125 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 126 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 127 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 128 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 129 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 130 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 131 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 132 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 133 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 134 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 135 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 136 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 137 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 138 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 139 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 140 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 141 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 142 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 143 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 144 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 145 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 146 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 147 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 148 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 149 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 150 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 151 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 152 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 153 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 154 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 155 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 156 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 157 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 158 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 159 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 160 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 161 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 162 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 163 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 164 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 165 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 166 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 167 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 168 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 169 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 170 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 171 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 172 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 173 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 174 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 175 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 176 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 177 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 178 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 179 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 180 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 181 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 182 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 183 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 184 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 185 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 186 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 187 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 188 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 189 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 190 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 191 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 192 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 193 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 194 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 195 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 196 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 197 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 198 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 199 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 200 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 201 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 202 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 203 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 204 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 205 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 206 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 207 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 208 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 209 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 210 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 211 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 212 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 213 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 214 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 215 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 216 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 217 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 218 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 219 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 220 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 221 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 222 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 223 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 224 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 225 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 226 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 227 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 228 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 229 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 230 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 231 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 232 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 233 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 234 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 235 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 236 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 237 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 238 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 239 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 240 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 241 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 242 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 243 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 244 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 245 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 246 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 247 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 248 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 249 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 250 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 251 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 252 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 253 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 254 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 255 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 256 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 257 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 258 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 259 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 260 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 261 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 262 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 263 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 264 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 265 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 266 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 267 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 268 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 269 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 270 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 271 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 272 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 273 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 274 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 275 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 276 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 277 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 278 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 279 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 280 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 281 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 282 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 283 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 284 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 285 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 286 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 287 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 288 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 289 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 290 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 291 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 292 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 293 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 294 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 295 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 296 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 297 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 298 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 299 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 300 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 301 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 302 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 303 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 304 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 305 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 306 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 307 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 308 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 309 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 310 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 311 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 312 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 313 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 314 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 315 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 316 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 317 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 318 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 319 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 320 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 321 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 322 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 323 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 324 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 325 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 326 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 327 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 328 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 329 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 330 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 331 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 332 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 333 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 334 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 335 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 336 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 337 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 338 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 339 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 340 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 341 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 342 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 343 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 344 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 345 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 346 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 347 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 348 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 349 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 350 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 351 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 352 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 353 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 354 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 355 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 356 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 357 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 358 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 359 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 360 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 361 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 362 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 363 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 364 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 365 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 366 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 367 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 368 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 369 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 370 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 371 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 372 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 373 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 374 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 375 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 376 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 377 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 378 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 379 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 380 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 381 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 382 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 383 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 384 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 385 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 386 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 387 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 388 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 389 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 390 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 391 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 392 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 393 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 394 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 395 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 396 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 397 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 398 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 399 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 400 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 401 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 402 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 403 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 404 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 405 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 406 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 407 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 408 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 409 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 410 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 411 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 412 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 413 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 414 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 415 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 416 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 417 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 418 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 419 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 420 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 421 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 422 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 423 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 424 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 425 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 426 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 427 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 428 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 429 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 430 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 431 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 432 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 433 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 434 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 435 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 436 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 437 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 438 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 439 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 440 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 441 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 442 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 443 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 444 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 445 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 446 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 447 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 448 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 449 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 450 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 451 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 452 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 453 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 454 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 455 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 456 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 457 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 458 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 459 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 460 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 461 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 462 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 463 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 464 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 465 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 466 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 467 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 468 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 469 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 470 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 471 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 472 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 473 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 474 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 475 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 476 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 477 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 478 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 479 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 480 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 481 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 482 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 483 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 484 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 485 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 486 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 487 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 488 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/render.c:803: render_all(): Queuing resize for page 489 to 640 x 802 (531.00 x 666.00).
+debug: ../zathura/callbacks.c:244: cb_widget_screen_changed(): called
+debug: ../zathura/jumplist.c:160: zathura_jumplist_load(): No jumplist for this file in the database yet
+debug: ../zathura/render.c:847: page_cache_is_cached(): Page 1 is a cache miss
+debug: ../zathura/render.c:934: zathura_renderer_page_cache_add(): Page 1 is cached at cache index 0
+debug: ../zathura/render.c:847: page_cache_is_cached(): Page 2 is a cache miss
+debug: ../zathura/render.c:934: zathura_renderer_page_cache_add(): Page 2 is cached at cache index 1
+debug: ../zathura/page-widget.c:727: zathura_page_widget_draw(): rendering loading screen, flicker might be happening
+debug: ../zathura/page-widget.c:727: zathura_page_widget_draw(): rendering loading screen, flicker might be happening
+debug: ../zathura/render.c:782: render_job(): Rendering page 2 ...
+debug: ../zathura/render.c:782: render_job(): Rendering page 1 ...
+debug: ../zathura/render.c:440: emit_completed_signal(): Emitting signal for page 2
+debug: ../zathura/render.c:440: emit_completed_signal(): Emitting signal for page 1
+debug: ../zathura/render.c:352: zathura_renderer_stop(): Setting about-to-close flag for renderer
+debug: ../zathura/render.c:352: zathura_renderer_stop(): Setting about-to-close flag for renderer
+debug: ../zathura/render.c:143: renderer_finalize(): Waiting for thread pool to finish.
+debug: ../zathura/callbacks.c:244: cb_widget_screen_changed(): called

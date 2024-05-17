@@ -1,7 +1,7 @@
 #!/bin/bash
 declare -a book_cache=()
 should_run_book=false
-counter=0
+counter=-1
 
 
 mount_cache() {
